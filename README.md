@@ -113,12 +113,12 @@ npm run dev
 Now open 👉 http://localhost:3000
 
 📸 Screenshots 
-![login Page](./Screenshots/login.png)
-![Main Project Section](./Screenshots/projects.png)
-![Kanban Board Module](./Screenshots/Kanban_board.png)
-![Whiteboard Module](./Screenshots/Whiteboard.png)
-![Notes Modules](./Screenshots/Notes.png)
-![Analytics Dashboard Module](./Screenshots/analytics_dashboard.png)
-![AI Ideation Module](./Screenshots/AI_Ideation.png)
+![login_Page](./screenshots/login.png)
+![Main Project Section](./screenshots/projects.png)
+![Kanban Board Module](./screenshots/kanban_board.png)
+![Whiteboard Module](./screenshots/whiteboard.png)
+![Notes Modules](./screenshots/notes.png)
+![Analytics Dashboard Module](./screenshots/analytics_dashboard.png)
+![AI Ideation Module](./screenshots/ai_ideation.png)
 
 
