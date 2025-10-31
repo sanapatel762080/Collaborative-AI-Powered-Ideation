@@ -33,7 +33,7 @@ export const getProjectStats = async (req, res) => {
   }
 };
 
-// ✅ Task Trends (last 7 days)
+//  Task Trends (last 7 days)
 export const getTaskTrends = async (req, res) => {
   try {
     const { projectId } = req.params;
@@ -75,7 +75,7 @@ export const getTaskTrends = async (req, res) => {
   }
 };
 
-// ✅ AI Insights
+//  AI Insights
 export const getAIInsights = async (req, res) => {
   try {
     const { projectId } = req.params;

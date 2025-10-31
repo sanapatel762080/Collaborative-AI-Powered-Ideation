@@ -3,10 +3,8 @@ import Idea from "./src/models/Idea.js";
 import Note from "./src/models/Note.js";
 import Message from "./src/models/Message.js";
 
-const uri="mongodb+srv://sanapatel152003:aVMspgFy5en86kGD@cluster0.9x0kijg.mongodb.net/mydb?retryWrites=true&w=majority&appName=Cluster0"
 
-
-await mongoose.connect(uri);
+await mongoose.connect(process.env.MONGO_URI);
 console.log("Connected to MongoDB Atlas");
 
 const projectId = "123";
