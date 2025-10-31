@@ -1,0 +1,111 @@
+# -------------------------
+# Node.js & npm
+# -------------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# -------------------------
+# Environment Files
+# -------------------------
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# -------------------------
+# Logs
+# -------------------------
+logs
+*.log
+*.log.*
+log/
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# -------------------------
+# Build Output
+# -------------------------
+dist/
+build/
+.cache/
+.next/
+out/
+coverage/
+
+# -------------------------
+# Temporary & Cache Files
+# -------------------------
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.backup
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
+*.orig
+*.rej
+
+# -------------------------
+# OS generated files
+# -------------------------
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# -------------------------
+# React specific
+# -------------------------
+client/build/
+client/node_modules/
+client/.env
+client/.cache/
+client/.DS_Store
+
+# -------------------------
+# Backend specific
+# -------------------------
+server/node_modules/
+server/.env
+server/uploads/
+server/temp/
+server/coverage/
+server/.DS_Store
+
+
+
+# -------------------------
+# Miscellaneous
+# -------------------------
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.gz
+
+# -------------------------
+# Local testing or data
+# -------------------------
+data/
+tmp/
+*.sqlite
+*.db
+
+# -------------------------
+# JetBrains / VSCode IDE files
+# -------------------------
+.vscode/
+.idea/
+*.code-workspace
+
+
+
